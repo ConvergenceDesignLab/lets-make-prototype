@@ -13,7 +13,10 @@ The core of the user experience is choosing medium cards from one or multiple de
 
 Missing from this prototype is card content for decks other than the visual art deck, smoother transitions between 'pages', a lot of flair and visual design, and the much needed inclusion of actual resources and images to be provided on the final page. These resources would be the user's call to action at the end of the experience, providing them with next steps for their project. 
 
-
-
-
 - Henry Hoare 5/14/2020
+
+Notes from Mike:
+- Visual art is the only medium deck that can be selected currently.
+- Speech bubbles for text instead of laying it on the desk.
+- Ability to still see all decks at the top of the desk, after clicking on one to expand the cards.
+- Placemat with drop zones on final page.
